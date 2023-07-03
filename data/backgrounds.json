@@ -1,0 +1,47 @@
+{
+  "red": {
+    "Image": "https://i.ibb.co/djjBk7x/profile-red.png",
+    "Name": "Red",
+    "Emote": "🔥"
+  },
+  "ocean": {
+    "Image": "https://i.ibb.co/pQZpfcP/profile-ocean.png",
+    "Name": "Ocean",
+    "Emote": "🌊"
+  },
+  "purple": {
+    "Image": "https://i.ibb.co/2qv9rbQ/profile-purple.png",
+    "Name": "Purple",
+    "Emote": "🟣"
+  },
+  "default": {
+    "Image": "https://i.ibb.co/HxX0Q2z/profilepage.png",
+    "Name": "Default",
+    "Emote": "🔵"
+  },
+  "police": {
+    "Image": "https://i.ibb.co/tz5qbpB/profile-police.png",
+    "Name": "Police",
+    "Emote": "🚔"
+  },
+  "silver": {
+    "Image": "https://i.ibb.co/n6BpGdH/profile-silver.png",
+    "Name": "Silver",
+    "Emote": "🚀"
+  },
+  "cherry": {
+    "Image": "https://i.ibb.co/xGhYVFT/profile-cherry.png",
+    "Name": "Cherry",
+    "Emote": "🌸"
+  },
+  "drift": {
+    "Image": "https://i.ibb.co/r7Mmqq7/profile-drift.png",
+    "Name": "Silver",
+    "Emote": "🚗"
+  },
+  "space": {
+    "Image": "https://i.ibb.co/b2ZZQkg/profile-space.png",
+    "Name": "Space",
+    "Emote": "🪐"
+  }
+}

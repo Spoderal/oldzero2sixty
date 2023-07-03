@@ -1,0 +1,32 @@
+{
+  "rich racer": {
+    "Title": "Rich Racer",
+    "Achieve": "Have a balance of $1M+"
+  },
+  "accelerator": {
+    "Title": "Accelerator",
+    "Achieve": "Crate",
+    "Crate": true
+  },
+  "spark plug": {
+    "Title": "Spark Plug",
+    "Achieve": "Crate",
+    "Crate": true
+  },
+  "astronomical racer": {
+    "Title": "Astronomical Racer",
+    "Achieve": "Event"
+  },
+  "noob racer": {
+    "Title": "Noob Racer",
+    "Achieve": "Event"
+  },
+  "pro racer": {
+    "Title": "Pro Racer",
+    "Achieve": "Event"
+  },
+  "best creator": {
+    "Title": "Best Creator",
+    "Achieve": "Event"
+  }
+}

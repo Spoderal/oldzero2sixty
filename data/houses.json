@@ -1,0 +1,90 @@
+{
+  "casa tranquilla": {
+    "id": "ct",
+    "Name": "Casa Tranquilla",
+    "Price": 500000,
+    "Perk": "Earn 5% more cash when racing on quarter mile tracks.",
+    "Image": "https://track-pm.s3.amazonaws.com/vacationperfect/image/16cd275a-4132-4f5b-96f9-84e3f562a703",
+    "Emote": "<:housecasa:1049184066567688222>",
+    "Type": "House",
+    "Space": 5,
+    "Prestige": 1
+  },
+  "buone vedute": {
+    "id": "bv",
+    "Name": "Buone Vedute",
+    "Price": 750000,
+    "Perk": "Earn 5% more cash when racing in /streetrace.",
+    "Image": "https://i.ibb.co/YXXLDF7/1cb9f46d-5556-481e-963b-ab7eb48f08b4-austrailia-house-exterior-close.jpg",
+    "Emote": "<:houseview:1050305264701669416>",
+    "Type": "House",
+    "Space": 5,
+    "Prestige": 5
+  },
+  "il maniero": {
+    "id": "im",
+    "Name": "Il Maniero",
+    "Price": 1200000,
+    "Perk": "Earn 10% more cash in wheelspins and superwheelspins.",
+    "Image": "https://i.ibb.co/4gnCc9B/gallery-manor-house-01.jpg",
+    "Emote": "<:themanor:1050481110569730099>",
+    "Type": "House",
+    "Space": 10,
+    "Prestige": 6
+  },
+  "albergo delle meraviglie": {
+    "id": "adm",
+    "Name": "Albergo Delle Meraviglie",
+    "Price": 1500000,
+    "Perk": "Earn 1 free super wheel spin every day",
+    "Image": "https://i.ibb.co/sWPhPmj/luxury-hotel-monastero-santa-rosa-pool-night-622.jpg",
+    "Emote": "<:hotelwonders:1050484410778132500>",
+    "Type": "House",
+    "Space": 10,
+    "Prestige": 10
+  },
+  "casa sul lago": {
+    "id": "sul",
+    "Name": "Casa Sul Lago",
+    "Price": 2000000,
+    "Perk": "Earn 2x notoriety for seasons",
+    "Image": "https://i.ibb.co/VNQ2X96/photo-1559767949-0faa5c7e9992.jpg",
+    "Emote": "<:houselake:1058653878863802412>",
+    "Type": "House",
+    "Space": 5,
+    "Prestige": 7
+  },
+  "casa della pace": {
+    "id": "pace",
+    "Name": "Casa Della Pace",
+    "Price": 1000000,
+    "Perk": "Earn 2x RP per race",
+    "Image": "https://www.designboom.com/wp-content/uploads/2013/08/studio-gaon-peaceful-house-on-the-hill-geochang-designboom-01.jpg",
+    "Emote": "🏠",
+    "Type": "House",
+    "Space": 3,
+    "Prestige": 2
+  },
+  "cabina accogliente": {
+    "id": "cabina",
+    "Name": "Cabina Accogliente",
+    "Price": 1700000,
+    "Perk": "Earn 1 free legendary barn find every day with /daily",
+    "Image": "https://images.squarespace-cdn.com/content/v1/615f0e0c67cbd55a7753a1cd/1641645525091-08T8P93584UWUDIT7H6K/IMG_2285.JPG",
+    "Emote": "🧺",
+    "Type": "House",
+    "Space": 3,
+    "Prestige": 3
+  },
+  "casa spaziale": {
+    "id": "spaziale",
+    "Name": "Casa Spaziale",
+    "Price": 0,
+    "Perk": "Earn 1 free exotic key every day with /daily",
+    "Image": "https://i.ibb.co/9pJX9Lp/220727110249-01-space-perspective.jpg",
+    "Emote": "🪐",
+    "Type": "House",
+    "Space": 10,
+    "Prestige": 0
+  }
+}

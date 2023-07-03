@@ -1,0 +1,23 @@
+{
+  "rain": {
+    "Slip": 2,
+    "SpeedReduce": 30,
+    "Reward": 250,
+    "Emote": "🌧️",
+    "Grip": 1.5
+  },
+  "clear": {
+    "Slip": 0,
+    "SpeedReduce": 0,
+    "Reward": 0,
+    "Grip": 1,
+    "Emote": "☀️"
+  },
+  "snow": {
+    "Slip": 3,
+    "SpeedReduce": 50,
+    "Reward": 350,
+    "Grip": 3,
+    "Emote": "❄️"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "Crates": {
+    "common crate": {
+      "Contents": [
+        "green helmet",
+        "red helmet",
+        "blue helmet",
+        "yellow helmet",
+        "dark matter helmet",
+        "cherry blossom helmet",
+        "5000 Cash",
+        "2500 Cash",
+        "2500 Cash",
+        "2500 Cash",
+        "spark plug"
+      ],
+      "Name": "Common Crate",
+      "Emote": "<:supplydrop:1044404467119960085>",
+      "Image": "https://i.ibb.co/dQ2D2yT/supplydrop.png"
+    },
+    "rare crate": {
+      "Contents": [
+        "flame helmet",
+        "purple helmet",
+        "rainbow helmet",
+        "turqoise helmet",
+        "saturn helmet",
+        "trillionaire helmet",
+        "10000 Cash",
+        "10000 Cash",
+        "10000 Cash",
+        "t3clutch",
+        "15000 Cash",
+        "t3tires",
+        "accelerator"
+      ],
+      "Name": "Rare Crate",
+      "Emote": "<:supplydroprare:1044404466096537731>",
+      "Image": "https://i.ibb.co/r4QY55b/supplydroprare.png"
+    },
+    "prestige crate": {
+      "Contents": [
+        "100000 Cash",
+        "dark mode helmet",
+        "dark mode helmet",
+        "stig helmet",
+        "vibrant helmet",
+        "50000 Cash",
+        "50000 Cash",
+        "50000 Cash",
+        "t5clutch",
+        "t5exhaust",
+        "25000 Cash"
+      ],
+      "Name": "Prestige Crate",
+      "Emote": "<:supplydropprestige:1044404462581719041>",
+      "Image": "https://i.ibb.co/bvzk1VL/supplydropprestige.png"
+    },
+    "seasonal crate": {
+      "Contents": [
+        "100000 Cash",
+        "darkest helmet",
+        "evil helmet",
+        "abstract helmet",
+        "glitch helmet",
+        "10000 Cash",
+        "10000 Cash",
+        "10000 Cash",
+        "t3driftspoiler",
+        "t2driftspoiler",
+        "t1driftspoiler",
+        "t1driftspoiler",
+        "rave helmet",
+        "touch grass helmet"
+      ],
+      "Name": "Seasonal Crate",
+      "Emote": "<:crate_seasonal:1080285947733737483>",
+      "Image": "https://i.ibb.co/0nJBs61/crate-seasonal.png"
+    }
+  }
+}
